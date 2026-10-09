@@ -1,8 +1,8 @@
 import java.util.Scanner;
-import java.util.*;
+
  public class PositiveNegativeNumbers{
     
-   5 void checkNumber(int number)
+ void checkNumber(int number)
 {
     if(number>0){
         System.out.println(number + " is a positve number");
